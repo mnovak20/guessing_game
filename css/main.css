@@ -1,0 +1,44 @@
+
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	background-color: #f0b548;
+}
+
+header{
+	background: #0066FF;
+	border-color: #0066FF; 
+}
+
+header{
+	float: left;
+	margin: 0 0 30px 0;
+	padding:  5px 0 0 0;
+	width: 100%;
+
+}
+
+h1{
+	font-family: 'Changa One', sans-serif;
+	margin: 15px 0;
+	font-size: 1.75em;
+	font-weight: normal;
+	line-height: 0.8em;
+	color: white;
+}
+
+#title{
+	text-align: center;
+}
+
+#see{
+	text-align: center;
+}
+
+#input{
+	text-align: center;
+}
+
+#buttons{
+	text-align: center;
+}
