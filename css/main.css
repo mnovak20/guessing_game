@@ -2,19 +2,18 @@
 
 body{
 	font-family: 'Open Sans', sans-serif;
-	background-color: #f0b548;
+	background-color: 	#F5EBCC;
 }
 
-header{
-	background: #0066FF;
-	border-color: #0066FF; 
-}
+
 
 header{
 	float: left;
-	margin: 0 0 30px 0;
+	margin: 0 0 50px 0;
 	padding:  5px 0 0 0;
 	width: 100%;
+	background: #3399FF;
+	border-color: #0066FF;
 
 }
 
@@ -31,14 +30,57 @@ h1{
 	text-align: center;
 }
 
-#see{
+.center{
 	text-align: center;
 }
 
-#input{
+#guessAlign{
+	text-align: center;
+}
+#guessRemain{
+	display: inline-block;
+	border-color: #3399FF;
+	border-style: solid;
+	padding: 10px;
+	}
+
+h2{
+	text-align: center;
+}
+
+#guessfield{
 	text-align: center;
 }
 
 #buttons{
 	text-align: center;
 }
+
+#correct{
+ color: red;
+}
+
+#poi{
+	text-align: center;
+	margin: 30px;
+}
+
+
+
+/*hot cold font colors*/
+#arctic{
+	color: #0033CC;
+}
+#cold{
+	color: #3399FF;
+}
+#warm{
+	color: #FF9999;
+}
+#warmer{
+	color: #FF9933;
+}
+#hot{
+	color:#FF0000;
+}
+
